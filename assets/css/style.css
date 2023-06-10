@@ -1,0 +1,15 @@
+* {
+    display: relative;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+}
+
+.header_nav_marca {
+    display: flex;
+    
+}
